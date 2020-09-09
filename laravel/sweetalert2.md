@@ -21,4 +21,5 @@ En un fichero Javascript (o Vue), ejecutar este código a través de un evento:
 this.$swal('Hola desde SweetAlert2');
 ```
 Se tendría que ver algo como esto:
+
 ![Prueba SweetAlert2](../images/prueba-sweetalert2.png)
